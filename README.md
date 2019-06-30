@@ -46,9 +46,9 @@ plt.scatter(x_list, y_list)
 plt.plot(x_list, y_approximate)
 plt.show()
 ```
-### How the code works
+## How the code works
 
-## Least Square Regression
+### Least Square Regression
 To understand how the code works, we need to understand the math behinf Least Square Regression.
 
 ## License

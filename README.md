@@ -1,6 +1,6 @@
-# My_PLRS
+# LinReg
 
-My_PLRS is my attempt at creating a libary of linear regression scripts. The goal of this project was to create a libary of linear regression scripts that were efficent and easy to understand. So far I have only achivied Least Square Regression.
+LinReg is my attempt at creating a libary of linear regression scripts. The goal of this project was to create a libary of linear regression scripts that were efficent and easy to understand. So far I have only achivied Least Square Regression.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ pip install numpy
 #### Get My_PLRS
 
 ```
-git clone https://github.com/anjolaolubusi/My_PLRS.git
+git clone https://github.com/anjolaolubusi/LinReg.git
 ```
 
 #### Example code

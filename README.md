@@ -16,11 +16,13 @@ So far, the only prequisitie you need are numpy.
 ```
 pip install numpy
 ```
-#### Get My_PLRS
+#### Get Linreg
 
 ```
-git clone https://github.com/anjolaolubusi/LinReg.git
+pip install linreg
 ```
+
+### How To Use Linreg
 
 #### Example code
 ```

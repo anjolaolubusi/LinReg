@@ -1,10 +1,10 @@
 # LinReg
 
-LinReg is my attempt at creating a libary of linear regression scripts. The goal of this project was to create a libary of linear regression scripts that were efficent and easy to understand. So far I have only achivied Least Square Regression.
+LinReg is my attempt at creating a libary of linear regression scripts. The goal of this project was to create a library of linear regression scripts that are efficent and easy to understand. So far I have only achivied Least Square Regression.
 
 ## Getting Started
 
-The instructions below will get you a copy of my libary. 
+The instructions below will get you a copy of my library. 
 
 ### Prequisites
 So far, the only prequisitie you need are numpy. 
@@ -49,7 +49,7 @@ plt.show()
 ## How the code works
 
 ### Least Square Regression
-To understand how the code works, we need to understand the math behinf Least Square Regression.
+To understand how the code works, we need to understand the math behind Least Square Regression.
 
 ## License
 

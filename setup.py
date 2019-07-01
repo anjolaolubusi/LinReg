@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name='linreglib',
-      version='0.1',
+      version='0.12',
       description='A little linear regression library package',
       url='https://github.com/anjolaolubusi/linreglib',
       author='Anjolaoluwa Olubusi',

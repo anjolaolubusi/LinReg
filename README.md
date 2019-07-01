@@ -1,6 +1,6 @@
-# LinReg
+# Linreglib
 
-LinReg is my attempt at creating a libary of linear regression scripts. The goal of this project was to create a library of linear regression scripts that are efficent and easy to understand. So far I have only achivied Least Square Regression.
+Linreglib is my attempt at creating a libary of linear regression scripts. The goal of this project was to create a library of linear regression scripts that is efficent and easy to understand. So far I have only achivied Least Square Regression.
 
 ## Getting Started
 
@@ -19,14 +19,19 @@ pip install numpy
 #### Get Linreg
 
 ```
-pip install linreg-lib
+pip install linreglib
+```
+### Updating
+
+```
+pip install linreglib --update
 ```
 
 ### How To Use Linreg
 
 #### Example code
 ```
-from linreg-lib import LSR
+from linreglib import LSR
 import matplotlib.pyplot as plt
 from matplotlib import style
 

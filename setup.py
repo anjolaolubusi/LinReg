@@ -7,5 +7,6 @@ setuptools.setup(name='linreglib',
       author='Anjolaoluwa Olubusi',
       author_email='anjolaolubusi@gmail.com',
       license='MIT',
-      packages=setuptools.find_packages(),
+      download_url='https://github.com/anjolaolubusi/linreglib/archive/v0.12.tar.gz',
+      install_requires=['numpy', 'statistics'],
       zip_safe=False)

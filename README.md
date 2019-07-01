@@ -19,14 +19,14 @@ pip install numpy
 #### Get Linreg
 
 ```
-pip install linreg
+pip install linreg-lib
 ```
 
 ### How To Use Linreg
 
 #### Example code
 ```
-from LinReg import LSR
+from linreg-lib import LSR
 import matplotlib.pyplot as plt
 from matplotlib import style
 
@@ -49,7 +49,7 @@ plt.show()
 ## How the code works
 
 ### Least Square Regression
-To understand how the code works, we need to understand the math behind Least Square Regression.
+To understand how the code works, we first need to understand the math behind Least Square Regression.
 
 ## License
 

@@ -24,7 +24,7 @@ pip install linreglib
 ### Updating
 
 ```
-pip install linreglib --update
+pip install linreglib -U
 ```
 
 ### How To Use Linreg
